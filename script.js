@@ -28,6 +28,12 @@ document.addEventListener( 'DOMContentLoaded', function() {
             width: '100%',
             perMove: 1,
             padding: '0%',
+        },
+        1550:{
+            perPage: 4,
+            width: '100%',
+            perMove: 1,
+            padding: '0%',
         }
     }
     } );

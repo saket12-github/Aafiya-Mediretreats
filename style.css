@@ -977,3 +977,25 @@ footer {
     }
 }
 
+@media screen and (min-width: 1550px) and (max-width: 1920px){
+
+    .navigation-bar1{
+        padding: 10px 0px 0px 0px;
+    }
+    .navigation-bar2{
+        font-size: 18px;
+        gap: 10%;
+    }
+    #overview{
+        padding: 30px 200px;
+    }
+    .hero-section{
+        height: 460px;
+    }
+    .navigation-bar3{
+        font-size: 18px;
+    }
+    #form-x{
+        justify-content: space-around;
+    }
+}
